@@ -138,3 +138,21 @@ Web, Blender, three.js), VIDEO/SOUND (Remotion Skills, Tone.js).
 ## Repo notes
 
 Font binaries under assets/fonts/ are not included in this upload (GitHub connector pushes text only); the renderer expects Space Grotesk and JetBrains Mono TTFs there. The rendered videos live in output/.
+
+## The 11 libraries presented
+
+Each scene presents one open-source library. The demos are faithful
+re-implementations of each library's own algorithms in this project's
+renderer; the libraries themselves live in their own repositories:
+
+- anime.js - https://github.com/juliangarnier/anime
+- react-spring - https://github.com/pmndrs/react-spring
+- D3 - https://github.com/d3/d3
+- Motion Canvas - https://github.com/motion-canvas/motion-canvas
+- Blender - https://github.com/blender/blender
+- three.js - https://github.com/mrdoob/three.js
+- Remotion Skills - https://github.com/remotion-dev/skills
+- Lottie Web - https://github.com/airbnb/lottie-web
+- Tone.js - https://github.com/Tonejs/Tone.js
+- p5.js - https://github.com/processing/p5.js
+- PixiJS - https://github.com/pixijs/pixijs
